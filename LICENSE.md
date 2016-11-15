@@ -1,0 +1,1 @@
+**This is a 2016 Creative Commons project :** https://creativecommons.org/publicdomain/zero/1.0/deed.fr
