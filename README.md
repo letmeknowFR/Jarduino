@@ -45,7 +45,6 @@ Vous voilà fin prêt ! Passons à la mécanique.
 Vous pouvez bien sûr imprimer vos propres pieds et paniers grâce au dossier ["3D"](/3D).
 
 ### De la patience maintenant, la plante pousse ! :seedling:
-### Aidez-nous sur [Kickstarter](http://kck.st/2eAQ2Ak) ! :muscle:
 ***
 ***
 <p align="center"> <img id="link" src="/Media/logo.png" alt="Jarduino Logo"> :us: </p>
@@ -94,4 +93,3 @@ You're all right! Let's move to the mechanical assembly.
 You can print your own 3D parts thanks to the given folder ["3D"](/3D).
 
 ### Patience now, plant is growing ! :seedling:
-### Help us on [Kickstarter](http://kck.st/2eAQ2Ak) ! :muscle:
