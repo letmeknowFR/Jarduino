@@ -110,7 +110,7 @@ void setup() {
     
     if((tm.Year > tm2.Year) || (tm.Year == tm2.Year && tm.Month > tm2.Month) ||
        (tm.Year == tm2.Year && tm.Month == tm2.Month && tm.Day > tm2.Day) ||
-       (tm.Year == tm2.Year && tm.Month == tm2.Month && tm.Day == tm2.Day && tm.Hour != tm2.Hour) ||
+       (tm.Year == tm2.Year && tm.Month == tm2.Month && tm.Day == tm2.Day && tm.Hour > tm2.Hour) ||
        (tm.Year == tm2.Year && tm.Month == tm2.Month && tm.Day == tm2.Day && tm.Hour == tm2.Hour && tm.Minute > tm2.Minute)) {
       if (RTC.write(tm)) {
         #ifdef DEBUG
