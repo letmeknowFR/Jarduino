@@ -1,0 +1,8 @@
+Pour 1 jarduino
+1 bague-inf
+1 bague sup
+1 couvercle-pied
+1 face-sup
+3 pieds
+1 pied pcb
+4 cote-fixation
